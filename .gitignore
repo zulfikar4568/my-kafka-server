@@ -1,4 +1,5 @@
 kafka/data/*
-!kafka/data/**/
+*/kafka/data/*
+
 zookeeper/data/*
-!zookeeper/data/**
+*/zookeeper/data/*
